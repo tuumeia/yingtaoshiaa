@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuumeia.github.io/yingtaoshiaa/sitemap.xml
